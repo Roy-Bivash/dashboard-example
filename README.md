@@ -1,5 +1,5 @@
 # dashboard-exemple
-
+this is a exemple of dashboard using tailwind css and Chart.js
 
 ![image description](https://github.com/Roy-Bivash/dashboard-example/blob/main/screenshot/Capture%20du%202023-05-25%2014-57-22.png)
 
